@@ -2,9 +2,9 @@
 
 ## This NodeJS boilerplate comes with :
 
-Dependencies : ExpressJS, DotEnv, CORS, Cookie-Parser
+Dependencies : ExpressJS, CORS, Cookie-Parser
 
-Dev-dependencies : Nodemon
+Dev-dependencies : Nodemon, DotEnv
 
 ## To start working with this boilerplate, run this : 
 
